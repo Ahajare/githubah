@@ -1,2 +1,4 @@
 this is feauture 2
-hello everyone
+git branch -D branchname
+to delte the local branches
+
