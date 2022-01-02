@@ -1,0 +1,4 @@
+echo " this is linux"
+echo "pwd"
+we are learning linux
+
